@@ -1,0 +1,7 @@
+C:\ProjectsC#\Final\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\ProjectsC#\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\ProjectsC#\Final\Final\bin\Debug\Final.exe.config
+C:\ProjectsC#\Final\Final\bin\Debug\Final.exe
+C:\ProjectsC#\Final\Final\bin\Debug\Final.pdb
+C:\ProjectsC#\Final\Final\obj\Debug\Final.exe
+C:\ProjectsC#\Final\Final\obj\Debug\Final.pdb
